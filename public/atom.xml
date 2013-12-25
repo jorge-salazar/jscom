@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2013-12-24T21:58:28-06:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[Jorge Salazar]]></title>
+  <link href="http://jorge-salazar.com/atom.xml" rel="self"/>
+  <link href="http://jorge-salazar.com/"/>
+  <updated>2013-12-24T22:42:44-06:00</updated>
+  <id>http://jorge-salazar.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Jorge Salazar]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[First Post]]></title>
+    <link href="http://jorge-salazar.com/blog/2013/12/24/first-post/"/>
+    <updated>2013-12-24T22:34:16-06:00</updated>
+    <id>http://jorge-salazar.com/blog/2013/12/24/first-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
