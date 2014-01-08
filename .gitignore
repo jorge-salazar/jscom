@@ -10,3 +10,14 @@ source/_stash
 source/stylesheets/screen.css
 vendor
 node_modules
+/db/*.sqlite3
+/db/*.sqlite3-journal
+/log/*.log
+/tmp
+database.yml
+doc/
+*.swp
+*~
+.project
+.idea
+.secret
