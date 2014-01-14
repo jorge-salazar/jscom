@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vacine Safety with Claire Broome"
-date: 2013-12-24 22:34:16 -0600
+date: 2014-01-14 22:34:16 -0600
 comments: true
 categories: interview
 ---
